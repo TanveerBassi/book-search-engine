@@ -10,6 +10,16 @@ Allows the user to search books and save them to a personalised reading list.
 
 ![image](./images/book-search-engine.png)
 
+## Installation
+
+```
+git clone git@github.com:TanveerBassi/book-search-engine.git
+npm i
+npm run start:server
+npm run start:client
+npm run start
+```
+
 ## Contact Me
 
 Tanveer13a551@gmail.com
